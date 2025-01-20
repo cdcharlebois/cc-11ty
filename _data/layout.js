@@ -1,0 +1,1 @@
+export default "layout.html" // layout for root pages

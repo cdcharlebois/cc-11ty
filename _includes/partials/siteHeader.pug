@@ -1,0 +1,5 @@
+li.nav-item
+    if page.fileSlug == "about"
+      a.nav-link.active(href=page.fileSlug) page.fileSlug
+    else 
+      a.nav-link(href=page.fileSlug) page.fileSlug
