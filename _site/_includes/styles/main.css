@@ -1,0 +1,11 @@
+.max960 {
+    @media screen and (width > 960px) {
+        max-width: 960px;    
+    }
+    
+}
+
+.page-content {
+    margin-bottom: 50px;
+}
+
